@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Aun Ali
 
-<!--
-**aun151214/aun151214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master’s student in Computer Intelligent Systems at the University of Verona, currently conducting my thesis at EPFL in Lausanne.
 
-Here are some ideas to get you started:
+My interests are in:
+- Machine Learning
+- Computer Vision
+- Scientific Python
+- Time-Series Analysis
+- Data-Intensive Research Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+My thesis work at EPFL involves quantitative analysis of large multichannel 3D time-resolved light-sheet microscopy data, with a focus on tracking-related methods, imaging workflows, and usable scientific software.
+
+## Selected projects
+- **Predictive Maintenance with NASA C-MAPSS**  
+  End-to-end time-series pipeline comparing ML and deep learning models including LSTM, GRU, and Transformer.
+
+- **YOLOv8 Object Detection on OpenImages**  
+  Reproducible object detection workflow including data preparation, training, evaluation, and inference.
+
+- **Real-Time Anomaly Detection Dashboard**  
+  Streamlit dashboard for real-time anomaly visualization and live evaluation using NAB data.
+
+## Tools
+Python, PyTorch, TensorFlow, OpenCV, scikit-learn, Streamlit, Pandas, NumPy, Git
+
+## Open to
+Machine Learning, Computer Vision, Research Engineer, Scientific Software, and Applied AI roles in Switzerland.
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/aunali-ml-cv/
+- GitHub: https://github.com/aun151214
