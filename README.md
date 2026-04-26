@@ -67,6 +67,9 @@ The project includes data preparation, model benchmarking, evaluation, and techn
 
 **Tech:** Python, TensorFlow, scikit-learn, Pandas, NumPy, Time-Series Analysis
 
+**Repository:**  
+https://github.com/aun151214/predictive-maintenance-cmapss
+
 ---
 
 ### Real-Time Anomaly Detection Dashboard
@@ -77,6 +80,9 @@ The project focuses on making machine learning results easier to inspect and int
 
 **Tech:** Python, Streamlit, scikit-learn, Pandas, Data Visualization
 
+**Repository:**  
+https://github.com/aun151214/Real-Time-Anomaly-Detection-Dashboard-NAB-Dataset
+
 ---
 
 ### YOLOv8 Object Detection on OpenImages
@@ -86,6 +92,9 @@ End-to-end computer vision workflow for object detection.
 The project includes dataset preparation, training, inference, evaluation, and reproducible project structure.
 
 **Tech:** Python, PyTorch, OpenCV, YOLOv8, Computer Vision
+
+**Repository:**  
+https://github.com/aun151214/YOLOv8-Object-Detection-Project-1
 
 ## Technical Skills
 
